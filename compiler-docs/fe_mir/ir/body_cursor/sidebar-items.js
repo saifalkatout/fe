@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["CursorLocation","Specify a current location of [`BodyCursor`]"]],"struct":[["BodyCursor",""]]};

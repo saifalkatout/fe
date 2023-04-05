@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["Linkage",""]],"struct":[["BodyDataStore","A collection of basic block, instructions and values appear in a function body."],["FunctionBody","A function body, which is not stored in salsa db to enable in-place transformation."],["FunctionId",""],["FunctionParam",""],["FunctionSignature","Represents function signature."]]};

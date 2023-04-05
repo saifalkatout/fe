@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Node",""],["NodeId",""],["Span","An exclusive span of byte offsets in a source file."]],"trait":[["Spanned",""]]};

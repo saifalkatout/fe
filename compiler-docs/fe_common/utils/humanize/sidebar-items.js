@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["pluralize_conditionally",""]],"trait":[["Pluralizable","A trait to derive plural or singular representations from"]]};
