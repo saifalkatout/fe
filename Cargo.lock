@@ -1230,6 +1230,7 @@ dependencies = [
  "fe-common2",
  "fe-hir",
  "fe-hir-analysis",
+ "fe-library2",
  "fe-macros",
  "include_dir",
  "salsa-2022",
@@ -1322,6 +1323,13 @@ dependencies = [
  "include_dir",
  "indexmap 1.9.3",
  "smol_str",
+]
+
+[[package]]
+name = "fe-library2"
+version = "0.26.0"
+dependencies = [
+ "include_dir",
 ]
 
 [[package]]
